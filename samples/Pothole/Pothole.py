@@ -36,7 +36,7 @@ import skimage.draw
 import cv2
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("Mask_RCNN-master/samples/Pothole")
+ROOT_DIR = os.path.abspath("/home/naruarjun/pothole/Pothole-detection-with-Mask-RCNN/samples/Pothole")
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
